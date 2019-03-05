@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://api.openweathermap.org/data/2.5/forecast",
+  "apiKey": "2eee6880a428bb2ab12c7c34871f2b35"
+}
